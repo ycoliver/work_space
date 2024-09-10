@@ -1,0 +1,16 @@
+textcnn
+https://github.com/rongshunlin/ModifyAI
+
+CPT
+https://github.com/fastnlp/CPT/blob/master/README.md
+
+adapter-bert
+https://github.com/google-research/adapter-bert
+
+text2SQL
+https://github.com/yechens/NL2SQL
+
+Nertron
+https://netron.app/
+
+

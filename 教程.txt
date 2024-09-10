@@ -1,0 +1,9 @@
+word embedding
+https://fancyerii.github.io/books/word-embedding/#nnlm
+
+深度学习torch代码教程
+https://zh-v2.d2l.ai/chapter_recurrent-modern/beam-search.html
+
+三塔bert对比学习
+https://blog.csdn.net/ccaoshangfei/article/details/126442227
+
